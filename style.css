@@ -1,0 +1,22 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    background-image: linear-gradient(to bottom right, #ffffff, rgba(255, 227, 227, 0.822));
+}
+
+h1 {
+    font-family: cursive;
+    /* font-size: 4.3rem; */
+}
+
+.drop-shadow {
+    text-shadow: 0 4px rgba(0, 0, 0, 0.164);
+}
+
+.jumbotron {
+    background-color: #ffffff00;
+}
+
+.btn-outline-dark:hover {
+    background-color: rgba(0, 0, 0, 0.205);
+}
